@@ -7,10 +7,6 @@
     {
       "name": "Anomalyce",
       "homepage": "https://github.com/anomalyce"
-    },
-    {
-      "name": "Xhika",
-      "homepage": "https://github.com/xhika"
     }
   ],
   "require": {
